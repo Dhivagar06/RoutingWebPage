@@ -1,0 +1,31 @@
+.homeimg{
+    height: 500px;
+    width: 100%;
+}
+.hometittle{
+    color: black;
+    padding-top:70px;
+    font-size: small;
+    color: green;
+    padding-left: 100px;
+}
+.hometext{
+ color: black;
+ padding-left: 100px;
+color: #e15f41;
+}
+.hometextone{
+    color:#1e272e;
+    padding-left: 100px;
+
+}
+.homebutton{
+border: 1px solid black;
+    width: 170px;
+    margin-left: 100px;
+   
+}
+.homebutton:hover{
+    background-color: #303952;
+
+}

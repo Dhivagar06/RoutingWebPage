@@ -1,0 +1,21 @@
+.Navbar{
+    display: flex;
+    justify-content: flex-end;
+    height: 60px;
+    background-color: #273c75;
+}
+.navlist a{
+color:white ;
+text-decoration: none;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.navlist{
+margin-top: 15px;
+padding-right: 60px;
+
+}
+.navlist a:hover{
+  color: chocolate;
+  font-size: 20px;
+}

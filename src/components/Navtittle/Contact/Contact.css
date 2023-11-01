@@ -1,0 +1,30 @@
+.contactpage{
+  margin-top: 100px;
+}
+.callcontact{
+
+   border: 1px solid gray;
+   margin-right: 10px;
+   text-align: center;
+ 
+}
+.emailcontact{
+   border: 1px solid gray;
+   margin-right: 10px;
+   text-align: center;
+}
+.location{
+
+   border: 1px solid gray;
+   text-align: center;
+   height: 200px;
+}
+.icons{
+ 
+   font-size: xx-large;
+color: green;
+
+}
+.divbox{
+   margin-top: 40px;
+}
